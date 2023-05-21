@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **taingzunaaloungfrancis@gmail.com**
 
-- ⚡ Fun fact **I like to laugh**
+- ⚡ Fun fact **I like to sing, off-tune, maybe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
