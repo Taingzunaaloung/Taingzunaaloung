@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taingzunaaloung" alt="taingzunaaloung" /></a> </p>
 
-- 🌱 I’m currently learning **Pyspark**
+- 🌱 I’m currently learning **Data Visualization using Tableau and PowerBI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taingzunaaloung](https://github.com/Taingzunaaloung)
 
